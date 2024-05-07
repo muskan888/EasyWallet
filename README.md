@@ -12,7 +12,7 @@ EasyWallet is a full-stack practice project inspired by digital wallet applicati
 
 ## Technology Stack
 
-- **Frontend**: JavaScript, Tailwind CSS
+- **Frontend**: JavaScript, React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JSON Web Tokens (JWT)
